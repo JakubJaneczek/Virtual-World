@@ -1,0 +1,35 @@
+﻿  Animal.cpp
+C:\Users\jakub\OneDrive\Pulpit\Pliki studia\ProjektPO1\DESI.h(64,1): error C2007: #define syntax
+  Antylope.cpp
+C:\Users\jakub\OneDrive\Pulpit\Pliki studia\ProjektPO1\DESI.h(64,1): error C2007: #define syntax
+  Belladonna.cpp
+C:\Users\jakub\OneDrive\Pulpit\Pliki studia\ProjektPO1\DESI.h(64,1): error C2007: #define syntax
+  Dandelion.cpp
+C:\Users\jakub\OneDrive\Pulpit\Pliki studia\ProjektPO1\DESI.h(64,1): error C2007: #define syntax
+  Fox.cpp
+C:\Users\jakub\OneDrive\Pulpit\Pliki studia\ProjektPO1\DESI.h(64,1): error C2007: #define syntax
+  Grass.cpp
+C:\Users\jakub\OneDrive\Pulpit\Pliki studia\ProjektPO1\DESI.h(64,1): error C2007: #define syntax
+  Guarana.cpp
+C:\Users\jakub\OneDrive\Pulpit\Pliki studia\ProjektPO1\DESI.h(64,1): error C2007: #define syntax
+  Human.cpp
+C:\Users\jakub\OneDrive\Pulpit\Pliki studia\ProjektPO1\DESI.h(64,1): error C2007: #define syntax
+  Organism.cpp
+C:\Users\jakub\OneDrive\Pulpit\Pliki studia\ProjektPO1\DESI.h(64,1): error C2007: #define syntax
+  Pineborscht.cpp
+C:\Users\jakub\OneDrive\Pulpit\Pliki studia\ProjektPO1\DESI.h(64,1): error C2007: #define syntax
+  Plant.cpp
+C:\Users\jakub\OneDrive\Pulpit\Pliki studia\ProjektPO1\DESI.h(64,1): error C2007: #define syntax
+  ProjektPO1.cpp
+C:\Users\jakub\OneDrive\Pulpit\Pliki studia\ProjektPO1\DESI.h(64,1): error C2007: #define syntax
+C:\Users\jakub\OneDrive\Pulpit\Pliki studia\ProjektPO1\ProjektPO1.cpp(6,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Sheep.cpp
+C:\Users\jakub\OneDrive\Pulpit\Pliki studia\ProjektPO1\DESI.h(64,1): error C2007: #define syntax
+  Turtle.cpp
+C:\Users\jakub\OneDrive\Pulpit\Pliki studia\ProjektPO1\DESI.h(64,1): error C2007: #define syntax
+  Wolf.cpp
+C:\Users\jakub\OneDrive\Pulpit\Pliki studia\ProjektPO1\DESI.h(64,1): error C2007: #define syntax
+  World.cpp
+C:\Users\jakub\OneDrive\Pulpit\Pliki studia\ProjektPO1\DESI.h(64,1): error C2007: #define syntax
+C:\Users\jakub\OneDrive\Pulpit\Pliki studia\ProjektPO1\World.cpp(481,23): warning C4390: ';': empty controlled statement found; is this the intent?
+  Generating Code...
